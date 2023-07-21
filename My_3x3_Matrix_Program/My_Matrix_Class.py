@@ -1,3 +1,4 @@
+# Author: Paradoxical
 from button import button
 from graphics import *
 from math import gcd

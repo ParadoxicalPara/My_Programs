@@ -1,5 +1,3 @@
-This repository contains the codes I wrote myself by my inventions.
-
-Most of them are from my self thoughts.
+Most of the programs in this repository contains the codes I wrote from my self thoughts.
 
 Enjoy:)
