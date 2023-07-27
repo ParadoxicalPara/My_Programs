@@ -1,4 +1,5 @@
-# Author: Paradoxical
+#Matrix Program v.1.0 
+#© Paradoxical 2023
 from button import button
 from graphics import *
 from math import gcd
@@ -203,7 +204,7 @@ class matrix:
         det = self.determinant(Matrix)
         if det==0:
             return [["","No inverse",""],["","because"\
-                                ,""],["","determinat is: 0",""]]
+                                ,""],["","determinant is: 0",""]]
         else:
             for i in range(3):
                 for j in range(3):
